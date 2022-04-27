@@ -3,7 +3,7 @@ module skywalking_mate_go
 go 1.18
 
 require (
-	github.com/paashzj/gutil v0.0.9
+	github.com/paashzj/gutil v0.0.10
 	go.uber.org/zap v1.21.0
 )
 
